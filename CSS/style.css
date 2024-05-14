@@ -5,14 +5,4 @@ main{
 
 .card{
     
-    background-image: url("../images/background.jpg");
-    
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-}
-section{
-background-color: red;
-height: 200px;
-
-}
+   background-color: red;}
